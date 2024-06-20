@@ -6,3 +6,7 @@ def coffee(n):
 
 
 coffee("Americano")
+
+coffee_one = "Cuppaccino"
+coffee_two = "White Mocha"
+coffee_three = "Choco Mocha"
